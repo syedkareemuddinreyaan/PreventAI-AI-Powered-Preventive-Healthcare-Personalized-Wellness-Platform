@@ -1,0 +1,2 @@
+# PreventAI-AI-Powered-Preventive-Healthcare-Personalized-Wellness-Platform
+PreventAI is an AI-powered preventive healthcare platform that predicts health risks including heart disease, diabetes, obesity, sleep disorders, and mental wellness. The system provides explainable AI insights, personalized workout and diet plans, health simulations, a 30-day improvement roadmap, and downloadable health reports.
